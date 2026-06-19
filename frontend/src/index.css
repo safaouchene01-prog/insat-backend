@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #5B8DEF;
+  --color-secondary: #4ECEEF;
+  --color-accent: #1E3C30;
+  --color-dark: #2E2F4E;
+  --color-surface: #FFFFFF;
+  --color-muted: #F4F6F8;
+  --color-border: #E2E8F0;
+  --color-danger: #EF4444;
+  --color-success: #22C55E;
+  --color-warning: #F59E0B;
+
+  --radius-card: 16px;
+  --shadow-card: 0 4px 24px rgba(8,188,208,0.10);
+
+  --logo-height-nav-desktop: 16px;
+  --logo-height-nav-mobile: 14px;
+  --logo-height-nav-scrolled: 13px;
+  --logo-height-footer: 20px;
+  --logo-height-hero: 28px;
+
+  --font-sans: 'Poppins', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  :root {
+    --color-primary: #5B8DEF;
+    --color-secondary: #4ECEEF;
+    --color-accent: #1E3C30;
+    --color-dark: #2E2F4E;
+    --color-surface: #FFFFFF;
+    --color-muted: #F4F6F8;
+    --color-border: #E2E8F0;
+    --color-danger: #EF4444;
+    --color-success: #22C55E;
+    --color-warning: #F59E0B;
+
+    --logo-height-nav-desktop: 16px;
+    --logo-height-nav-mobile: 14px;
+    --logo-height-nav-scrolled: 13px;
+    --logo-height-footer: 20px;
+    --logo-height-hero: 28px;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--color-dark);
+    background-color: var(--color-surface);
+  }
+}

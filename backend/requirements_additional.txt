@@ -1,0 +1,13 @@
+# Additional dependencies for AI Diagnostic System
+python-multipart==0.0.6
+pydantic==2.0.0
+uvicorn==0.20.0
+fastapi==0.95.0
+psycopg2-binary==2.9.5
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.0.1
+# Image processing dependencies
+pillow==10.4.0
+python-magic==0.4.27
+python-magic-bin==0.4.14

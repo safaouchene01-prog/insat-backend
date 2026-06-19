@@ -1,0 +1,401 @@
+{
+  "Trouble Dépressif Majeur": {
+    "psychoeducation": [
+      "Expliquer la nature biopsychosociale de la dépression",
+      "Informer sur le cycle pensées-émotions-comportements",
+      "Aborder les idées reçues sur la dépression et la stigmatisation",
+      "Expliquer l'importance de l'observance thérapeutique"
+    ],
+    "behavioral": [
+      "Thérapie Cognitive-Comportementale (TCC) — protocole dépression",
+      "Thérapie d'Acceptation et d'Engagement (ACT)",
+      "Thérapie Interpersonnelle (TIP)",
+      "Activation comportementale et planification d'activités plaisantes",
+      "Hygiène du sommeil et régulation du rythme circadien"
+    ],
+    "cognitive": [
+      "Identification et restructuration des pensées automatiques négatives",
+      "Travail sur la triade cognitive de Beck (soi, monde, avenir)",
+      "Défusion cognitive (ACT)",
+      "Journal de gratitude et bilan quotidien positif"
+    ],
+    "pharmacological": [
+      "Antidépresseurs (ISRS, IRSN) lorsqu'indiqués cliniquement — à prescrire par un médecin habilité",
+      "Réévaluation régulière de la tolérance et de l'efficacité du traitement médicamenteux"
+    ],
+    "complementary": [
+      "Neurofeedback (régulation des ondes cérébrales)",
+      "rTMS (Stimulation Magnétique Transcrânienne répétitive)",
+      "ECT (Électroconvulsivothérapie) pour les formes résistantes",
+      "Activité physique régulière (30 min/jour minimum)",
+      "Techniques de pleine conscience (Mindfulness-Based Cognitive Therapy — MBCT)"
+    ],
+    "recommended_sessions": "16 à 20 séances hebdomadaires (phase aiguë), puis suivi mensuel"
+  },
+
+  "Trouble Anxieux Généralisé": {
+    "psychoeducation": [
+      "Expliquer le mécanisme de l'inquiétude chronique et son rôle d'évitement",
+      "Distinguer inquiétudes productives et non productives",
+      "Expliquer la réponse physiologique du stress (axe HPA, système nerveux autonome)",
+      "Informer sur l'entretien involontaire de l'anxiété par les comportements de réassurance"
+    ],
+    "behavioral": [
+      "Thérapie Cognitive-Comportementale (TCC) pour le TAG",
+      "Thérapie par Exposition (exposition aux situations et aux incertitudes redoutées)",
+      "Techniques de relaxation musculaire progressive (Jacobson)",
+      "Techniques de respiration (cohérence cardiaque, respiration diaphragmatique)",
+      "Thérapie d'Acceptation et d'Engagement (ACT)",
+      "Réduction des comportements de réassurance"
+    ],
+    "cognitive": [
+      "Restructuration des croyances sur l'inquiétude (méta-inquiétudes)",
+      "Entraînement à la tolérance à l'incertitude",
+      "Planification du temps d'inquiétude (worry time)",
+      "Résolution de problèmes structurée"
+    ],
+    "pharmacological": [
+      "Anxiolytiques (benzodiazépines à court terme) lorsque médicalement indiqués",
+      "Antidépresseurs (ISRS, buspirone) lorsque médicalement indiqués"
+    ],
+    "complementary": [
+      "Neurofeedback (protocoles alpha/thêta)",
+      "Mindfulness et méditation de pleine conscience",
+      "Biofeedback de cohérence cardiaque",
+      "Yoga thérapeutique"
+    ],
+    "recommended_sessions": "12 à 16 séances hebdomadaires"
+  },
+
+  "Trouble Panique": {
+    "psychoeducation": [
+      "Expliquer le mécanisme neurobiologique de l'attaque de panique",
+      "Déconstruire les interprétations catastrophiques des sensations corporelles",
+      "Expliquer le cycle peur-hypervigilance-panique",
+      "Rassurer sur l'absence de danger vital lors des attaques"
+    ],
+    "behavioral": [
+      "TCC centrée sur la panique (Protocole de Clark)",
+      "Exposition intéroceptive (exposition aux sensations corporelles redoutées)",
+      "Exposition in vivo aux situations évitées",
+      "Psychoéducation structurée sur le trouble panique",
+      "Prévention de la rechute"
+    ],
+    "cognitive": [
+      "Restructuration des interprétations catastrophiques",
+      "Identification et modification des comportements de sécurité",
+      "Travail sur la sensibilité à l'anxiété",
+      "Journalisation des attaques de panique (fréquence, contexte, intensité)"
+    ],
+    "pharmacological": [
+      "Médication (ISRS, benzodiazépines à court terme) lorsque médicalement indiquée"
+    ],
+    "complementary": [
+      "Neurofeedback",
+      "Techniques de respiration (respiration lente, cohérence cardiaque)",
+      "Relaxation musculaire progressive"
+    ],
+    "recommended_sessions": "12 à 15 séances hebdomadaires"
+  },
+
+  "Trouble Obsessionnel-Compulsif": {
+    "psychoeducation": [
+      "Expliquer le cycle obsessions-anxiété-compulsions-soulagement temporaire",
+      "Distinguer pensées intrusives normales et obsessions cliniques",
+      "Expliquer le rôle de renforcement négatif des compulsions",
+      "Informer sur la neurobiologie du TOC (boucle cortico-striato-thalamo-corticale)"
+    ],
+    "behavioral": [
+      "Exposition avec Prévention de la Réponse (EPR) — protocole standardisé",
+      "TCC spécialisée pour le TOC",
+      "Hiérarchisation des expositions (de la moins anxiogène à la plus anxiogène)",
+      "Réduction graduelle des rituels et compulsions"
+    ],
+    "cognitive": [
+      "Restructuration des croyances dysfonctionnelles liées au TOC (responsabilité excessive, perfectionnisme, fusion pensée-action)",
+      "Travail sur la tolérance à l'incertitude",
+      "Défusion cognitive avec les pensées intrusives",
+      "Thérapie métacognitive (MCT)"
+    ],
+    "pharmacological": [
+      "ISRS (sertraline, fluoxétine, fluvoxamine) à doses thérapeutiques",
+      "Clomipramine en cas de non-réponse aux ISRS"
+    ],
+    "complementary": [
+      "Neurofeedback",
+      "Mindfulness appliquée au TOC (MBCT-TOC)",
+      "ACT pour le TOC"
+    ],
+    "recommended_sessions": "16 à 20 séances hebdomadaires — suivi à long terme recommandé"
+  },
+
+  "Trouble de Stress Post-Traumatique": {
+    "psychoeducation": [
+      "Expliquer les mécanismes neurobiologiques du trauma (amygdale, hippocampe, cortex préfrontal)",
+      "Expliquer pourquoi les souvenirs traumatiques ne s'effacent pas spontanément",
+      "Valider la réponse normale à un événement anormal",
+      "Informer sur les symptômes de reviviscence, d'évitement et d'hyperactivation"
+    ],
+    "behavioral": [
+      "EMDR (Eye Movement Desensitization and Reprocessing) — standard clinique international",
+      "TCC centrée sur le trauma (TF-CBT)",
+      "Exposition Prolongée (PE) — protocole de Foa",
+      "Thérapie de Traitement Cognitif (CPT)",
+      "Thérapie narrative du trauma"
+    ],
+    "cognitive": [
+      "Restructuration des cognitions traumatiques (honte, culpabilité, sentiment de danger permanent)",
+      "Travail sur les points de blocage cognitif (CPT)",
+      "Établissement d'une chronologie et d'un récit cohérent du trauma",
+      "Travail sur les schémas fondamentaux altérés par le trauma"
+    ],
+    "pharmacological": [
+      "ISRS (sertraline, paroxétine) approuvés pour le TSPT",
+      "Prazosin pour les cauchemars (si indiqué médicalement)"
+    ],
+    "complementary": [
+      "Neurofeedback (alpha/thêta, insula)",
+      "Thérapie somatique (Somatic Experiencing)",
+      "Yoga du trauma (Trauma-Sensitive Yoga)",
+      "Techniques d'ancrage et de stabilisation"
+    ],
+    "recommended_sessions": "16 à 24 séances — rythme adapté à la stabilisation du patient"
+  },
+
+  "Trouble Bipolaire": {
+    "psychoeducation": [
+      "Expliquer la cyclicité des épisodes maniaques et dépressifs",
+      "Identifier les signes avant-coureurs personnels (triggers, prodromes)",
+      "Expliquer l'importance cruciale de la régularité des rythmes de vie",
+      "Informer sur les risques de la non-observance médicamenteuse"
+    ],
+    "behavioral": [
+      "Psychoéducation structurée (programme IPSRT ou Colom-Vieta)",
+      "Thérapie des Rythmes Sociaux (IPSRT — Interpersonal and Social Rhythm Therapy)",
+      "Thérapie Familiale Focalisée (FFF — Family-Focused Therapy)",
+      "Entraînement à la résolution de problèmes",
+      "Surveillance et gestion des épisodes avec auto-monitoring"
+    ],
+    "cognitive": [
+      "Restructuration cognitive en phase dépressive",
+      "Identification des distorsions cognitives en phase maniaque (grandiose, omnipotence)",
+      "Travail sur les comportements à risque en phase hypomaniaque",
+      "Gestion des rechutes et plan de crise personnalisé"
+    ],
+    "pharmacological": [
+      "Stabilisateurs de l'humeur (lithium, valproate, lamotrigine) — indispensables",
+      "Antipsychotiques atypiques (aripiprazole, quétiapine) si indiqués",
+      "Prudence avec les antidépresseurs (risque de virage maniaque)"
+    ],
+    "complementary": [
+      "Neurofeedback",
+      "Luminothérapie (en phase dépressive, sous supervision)",
+      "Techniques de régulation émotionnelle",
+      "Application mobile de suivi d'humeur"
+    ],
+    "recommended_sessions": "Suivi continu — phase aiguë : hebdomadaire ; phase de maintenance : mensuel"
+  },
+
+  "Schizophrénie": {
+    "psychoeducation": [
+      "Expliquer la nature de la maladie et ses différentes phases",
+      "Informer sur les symptômes positifs (hallucinations, délires) et négatifs (avolition, retrait)",
+      "Aborder les idées reçues et la déstigmatisation",
+      "Expliquer l'importance des antipsychotiques et de l'observance"
+    ],
+    "behavioral": [
+      "Réhabilitation psychosociale (programme structuré)",
+      "Remédiation Cognitive (entraînement neuropsychologique)",
+      "Thérapie Familiale (psychoéducation familiale, expressed emotion reduction)",
+      "Entraînement aux Compétences Sociales (SST)",
+      "Thérapie par les Émotions Normalisées (NECT)",
+      "Soutien à l'insertion professionnelle et sociale"
+    ],
+    "cognitive": [
+      "TCC pour la psychose (CBTp) — travail sur les croyances délirantes et hallucinatoires",
+      "Remédiation cognitive (CRT, RECOS)",
+      "Travail sur l'insight et la conscience de la maladie",
+      "Gestion du stress et des émotions"
+    ],
+    "pharmacological": [
+      "Antipsychotiques (rispéridone, olanzapine, aripiprazole, clozapine pour formes résistantes)",
+      "Surveillance des effets métaboliques et extrapyramidaux"
+    ],
+    "complementary": [
+      "Neurofeedback",
+      "Art-thérapie et musicothérapie",
+      "Activité physique adaptée",
+      "Logement supervisé et case management"
+    ],
+    "recommended_sessions": "Suivi intensif continu — hebdomadaire en phase aiguë"
+  },
+
+  "Trouble de la Personnalité Paranoïaque": {
+    "psychoeducation": [
+      "Expliquer les schémas cognitifs sous-jacents (méfiance, interprétation malveillante)",
+      "Travailler sur la reconnaissance de l'impact interpersonnel des comportements",
+      "Aborder la fonction adaptative historique de la méfiance",
+      "Psychoéducation sur les effets du schéma paranoïaque sur les relations"
+    ],
+    "behavioral": [
+      "Thérapie de Soutien (alliance thérapeutique prioritaire)",
+      "Thérapie Cognitive ciblant les interprétations hostiles",
+      "Thérapie des Schémas (Young) — schéma méfiance/abus",
+      "Développement progressif de l'Alliance Thérapeutique",
+      "Travail de mentalisation et théorie de l'esprit"
+    ],
+    "cognitive": [
+      "Restructuration des biais d'attribution hostile",
+      "Exposition cognitive aux incertitudes relationnelles",
+      "Travail sur les schémas précoces inadaptés (méfiance, abus, défectuosité)",
+      "Entraînement à la mentalisation"
+    ],
+    "pharmacological": [
+      "Antipsychotiques à faibles doses si symptômes quasi-psychotiques",
+      "Traitement ciblé des comorbidités (anxiété, dépression)"
+    ],
+    "complementary": [
+      "Neurofeedback",
+      "Thérapie de groupe (en phase avancée, après consolidation de l'alliance)",
+      "Mindfulness pour la réduction de la réactivité émotionnelle"
+    ],
+    "recommended_sessions": "Thérapie long terme — minimum 1 à 2 ans de suivi régulier"
+  },
+
+  "Trouble de la Personnalité Borderline": {
+    "psychoeducation": [
+      "Expliquer le modèle biosocial de Linehan (vulnérabilité émotionnelle + environnement invalidant)",
+      "Identifier les patterns relationnels et émotionnels borderline",
+      "Expliquer le cycle déclencheur-émotion-comportement impulsif-conséquences",
+      "Travailler sur la tolérance à la détresse et la régulation émotionnelle"
+    ],
+    "behavioral": [
+      "Thérapie Comportementale Dialectique (TCD/DBT) — traitement de référence",
+      "Thérapie Basée sur la Mentalisation (MBT)",
+      "Thérapie des Schémas (Young)",
+      "Thérapie Focalisée sur le Transfert (TFP)",
+      "Analyse comportementale en chaîne (chain analysis)"
+    ],
+    "cognitive": [
+      "Régulation émotionnelle (module DBT)",
+      "Tolérance à la détresse (module DBT)",
+      "Efficacité interpersonnelle (module DBT)",
+      "Pleine conscience (mindfulness — module DBT)",
+      "Travail sur les schémas précoces inadaptés"
+    ],
+    "pharmacological": [
+      "Pas de médicament spécifique pour le TPB",
+      "Traitement symptomatique des comorbidités (humeur, impulsivité, psychose transitoire)"
+    ],
+    "complementary": [
+      "Neurofeedback",
+      "Groupe de compétences DBT",
+      "Thérapie par les arts",
+      "Soutien à la crise (safety planning)"
+    ],
+    "recommended_sessions": "TCD standard : 1 an minimum — séance individuelle hebdomadaire + groupe de compétences"
+  },
+
+  "Trouble du Spectre de l'Autisme": {
+    "psychoeducation": [
+      "Expliquer le profil neuro-atypique et les forces/défis associés",
+      "Sensibiliser l'entourage familial au fonctionnement autistique",
+      "Expliquer le modèle de la double empathie",
+      "Aborder les besoins sensoriels et les intérêts spécifiques"
+    ],
+    "behavioral": [
+      "Analyse Appliquée du Comportement (ABA) — approche naturelle et positive",
+      "Modèle de Denver (Early Start Denver Model — ESDM) pour les jeunes enfants",
+      "Méthode TEACCH (structuration de l'environnement)",
+      "Entraînement aux Compétences Sociales (Social Skills Training)",
+      "Orthophonie et Communication Alternative et Améliorée (CAA)",
+      "Intégration Sensorielle"
+    ],
+    "cognitive": [
+      "Développement de la Théorie de l'Esprit",
+      "Entraînement aux fonctions exécutives",
+      "Travail sur la flexibilité cognitive",
+      "Gestion des transitions et du changement"
+    ],
+    "pharmacological": [
+      "Pas de traitement médicamenteux spécifique pour le TSA",
+      "Traitement ciblé des comorbidités (anxiété, TDAH, irritabilité, insomnie)"
+    ],
+    "complementary": [
+      "Neurofeedback",
+      "Art-thérapie et musicothérapie",
+      "Zoothérapie",
+      "Activités physiques adaptées"
+    ],
+    "recommended_sessions": "Intervention précoce intensive recommandée — suivi adapté au profil individuel"
+  },
+
+  "Trouble Déficitaire de l'Attention avec ou sans Hyperactivité": {
+    "psychoeducation": [
+      "Expliquer le modèle neurobiologique du TDAH (dopamine, cortex préfrontal)",
+      "Distinguer TDAH inattentif, hyperactif-impulsif et mixte",
+      "Psychoéducation parentale et familiale",
+      "Expliquer les forces associées au profil TDAH (créativité, hyperfocus)"
+    ],
+    "behavioral": [
+      "Entraînement parental (Parent Training) — programmes Barkley ou Webster-Stratton",
+      "Thérapie Comportementale pour le TDAH",
+      "Entraînement aux Fonctions Exécutives",
+      "Aménagements environnementaux et organisationnels",
+      "Coaching TDAH"
+    ],
+    "cognitive": [
+      "TCC adaptée au TDAH adulte (Safren)",
+      "Entraînement à la mémoire de travail (Cogmed, RoboMemo)",
+      "Planification et gestion du temps",
+      "Stratégies d'auto-régulation et de monitoring",
+      "Mindfulness pour le TDAH (Mindfulness-Based Cognitive Therapy for ADHD)"
+    ],
+    "pharmacological": [
+      "Méthylphénidate (Ritaline, Concerta) lorsque cliniquement indiqué",
+      "Atomoxétine (Strattera) en alternative",
+      "Surveillance cardiovasculaire et du développement pondéral"
+    ],
+    "complementary": [
+      "Neurofeedback (thêta/bêta — protocole TDAH)",
+      "Activité physique régulière (effet bénéfique démontré sur l'attention)",
+      "Aménagements scolaires et professionnels",
+      "Applications de gestion du temps et d'organisation"
+    ],
+    "recommended_sessions": "Traitement multimodal continu — réévaluation semestrielle"
+  },
+
+  "Troubles liés à l'usage de substances": {
+    "psychoeducation": [
+      "Expliquer le circuit de la récompense et les mécanismes neurobiologiques de l'addiction",
+      "Informer sur les stades du changement (Prochaska et DiClemente)",
+      "Expliquer les symptômes de sevrage et leur gestion",
+      "Travailler sur les croyances liées à la substance et à l'identité"
+    ],
+    "behavioral": [
+      "Entretien Motivationnel (EM)",
+      "TCC centrée sur l'addiction (prévention de la rechute — Marlatt)",
+      "Prévention de la Rechute structurée",
+      "Thérapie Familiale et de Couple",
+      "Groupes de soutien (AA, NA, SMART Recovery)"
+    ],
+    "cognitive": [
+      "Identification et gestion des déclencheurs (triggers)",
+      "Restructuration des croyances addictives (anticipatoires, de soulagement, de permission)",
+      "Résolution de problèmes et gestion du stress sans substances",
+      "Développement d'un mode de vie équilibré"
+    ],
+    "pharmacological": [
+      "Traitement de substitution (méthadone, buprénorphine) pour les opioïdes si indiqué",
+      "Naltrexone, acamprosate pour l'alcool si indiqué",
+      "Gestion médicalisée du sevrage"
+    ],
+    "complementary": [
+      "Neurofeedback",
+      "Mindfulness-Based Relapse Prevention (MBRP)",
+      "Activité physique et rééducation du bien-être",
+      "Réinsertion sociale et professionnelle"
+    ],
+    "recommended_sessions": "Suivi intensif : 2 ans minimum — phase initiale hebdomadaire, puis espacement progressif"
+  }
+}
