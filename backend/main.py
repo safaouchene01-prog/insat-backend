@@ -42,6 +42,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://tourmaline-salmiakki-5972e7.netlify.app",
+        "https://insat.netlify.app",
         "http://localhost:5173",
         "http://localhost:3000",
     ],
